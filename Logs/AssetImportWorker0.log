@@ -192,3 +192,147 @@ Received Import Request.
 Start importing Assets/Scenes/SolarSystem.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c219e593b43b517dde932554758ae5') in 0.005127 seconds 
   Import took 0.009179 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1030.572045 seconds.
+  path: Assets/Textures/SaturnTexture.jpg
+  artifactKey: Guid(a8a40334215594bab97073f1ae5dff47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SaturnTexture.jpg using Guid(a8a40334215594bab97073f1ae5dff47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6001b0ff4f84f649470ab8c74563a91') in 1.598765 seconds 
+  Import took 1.618542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Textures/VenusTexture.jpg
+  artifactKey: Guid(97d737759519e4c3683fc94d21d8d489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/VenusTexture.jpg using Guid(97d737759519e4c3683fc94d21d8d489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0cb4835fe0aa5ec5cb6e0b99edee3c9') in 0.019949 seconds 
+  Import took 0.022032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Textures/SpaceTexture.jpg
+  artifactKey: Guid(aca7460dc7df64b7f83fef1db2fd5c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SpaceTexture.jpg using Guid(aca7460dc7df64b7f83fef1db2fd5c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7ad39216242e5cac4dfeb3a864f08e') in 0.017623 seconds 
+  Import took 0.019649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Textures/UranusTexture.jpg
+  artifactKey: Guid(625b8be1270cf41cd92baa3dbececd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UranusTexture.jpg using Guid(625b8be1270cf41cd92baa3dbececd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01fc520024ab8d19a2c40f5a83699582') in 0.029729 seconds 
+  Import took 0.032534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000724 seconds.
+  path: Assets/Icons/SunIcon.png
+  artifactKey: Guid(8c853809bb9504eadb73760d2e22f7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Icons/SunIcon.png using Guid(8c853809bb9504eadb73760d2e22f7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019ddf97ff8a1dcd265ca5109621fe20') in 1.125580 seconds 
+  Import took 1.128214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Textures/SunTexture.jpg
+  artifactKey: Guid(2ba5739cb66b244c782d07df5d394ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SunTexture.jpg using Guid(2ba5739cb66b244c782d07df5d394ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b1eff2f257a95eb2f60bf3533888626') in 0.009885 seconds 
+  Import took 0.012412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.004800 seconds.
+  path: Assets/Textures/MoonTexture.jpg
+  artifactKey: Guid(6df4b70e840fa4a5fa512cab0648cd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/MoonTexture.jpg using Guid(6df4b70e840fa4a5fa512cab0648cd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ef893314df8f52cc264a71f5a3fa0a') in 0.029241 seconds 
+  Import took 0.031546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022224 seconds.
+  path: Assets/Textures/MoonTexture.jpg
+  artifactKey: Guid(6df4b70e840fa4a5fa512cab0648cd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/MoonTexture.jpg using Guid(6df4b70e840fa4a5fa512cab0648cd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ef893314df8f52cc264a71f5a3fa0a') in 0.015015 seconds 
+  Import took 0.019302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 157.369576 seconds.
+  path: Assets/Textures/EarthTexture.jpg
+  artifactKey: Guid(6c9b71c82fa144ffaa958962bd43311f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/EarthTexture.jpg using Guid(6c9b71c82fa144ffaa958962bd43311f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2056247c53cd3c840f884d93a415aae3') in 0.012529 seconds 
+  Import took 0.015248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Textures/MarsTexture.jpg
+  artifactKey: Guid(00759368321a44582aa10c1ad7a4ed51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/MarsTexture.jpg using Guid(00759368321a44582aa10c1ad7a4ed51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883ebbe749a3baa697c636c749a8e598') in 0.010940 seconds 
+  Import took 0.014551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Textures/MercuryTexture.jpg
+  artifactKey: Guid(ddbd6180522b54d1b83bf05af4b4d115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/MercuryTexture.jpg using Guid(ddbd6180522b54d1b83bf05af4b4d115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd513b3a120db8c681bf381b49c7ec72') in 0.012613 seconds 
+  Import took 0.014974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Textures/NeptuneTexture.jpg
+  artifactKey: Guid(73892d29a5b6740d392193bf4a1d8a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/NeptuneTexture.jpg using Guid(73892d29a5b6740d392193bf4a1d8a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49cf7a1092636360cbbca9a457a22132') in 0.019614 seconds 
+  Import took 0.023797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003688 seconds.
+  path: Assets/Textures/JupiterTexture.jpg
+  artifactKey: Guid(3b91fd4fa47914961ab525beaf9504bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/JupiterTexture.jpg using Guid(3b91fd4fa47914961ab525beaf9504bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865d22a417bc00dd179c5e447e60ce1a') in 0.021316 seconds 
+  Import took 0.025058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Textures/PlutoTexture.jpg
+  artifactKey: Guid(a9f70bfe7cb3d4681a37f6a23dec0447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/PlutoTexture.jpg using Guid(a9f70bfe7cb3d4681a37f6a23dec0447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0cb02976ae12a81fa04ea09d6e534a1') in 0.014754 seconds 
+  Import took 0.022686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022383 seconds.
+  path: Assets/Textures/PlutoTexture.jpg
+  artifactKey: Guid(a9f70bfe7cb3d4681a37f6a23dec0447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/PlutoTexture.jpg using Guid(a9f70bfe7cb3d4681a37f6a23dec0447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0cb02976ae12a81fa04ea09d6e534a1') in 0.008219 seconds 
+  Import took 0.011251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.343693 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(2c98acc2ea4754fd7b786922efca39cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(2c98acc2ea4754fd7b786922efca39cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df86dbd834084f058389d8a1e8220196') in 0.002883 seconds 
+  Import took 0.008258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.903111 seconds.
+  path: Assets/Materials/EarthTexture.mat
+  artifactKey: Guid(222fbf34cde1b4370b6553d4f2ef9eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/EarthTexture.mat using Guid(222fbf34cde1b4370b6553d4f2ef9eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c908e757bf3ce6a0b0d660647b76302') in 1.737103 seconds 
+  Import took 1.740078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Materials/MoonTexture.mat
+  artifactKey: Guid(5890a1a8dfeb74aa1b1a1e5756c06997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/MoonTexture.mat using Guid(5890a1a8dfeb74aa1b1a1e5756c06997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db562a0a2f4aa6b4212ce2e7eb5504ba') in 0.040063 seconds 
+  Import took 0.042977 seconds .
+
