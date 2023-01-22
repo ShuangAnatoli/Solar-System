@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DB7062D2-755C-EF7A-B5EC-D8E8C8F3F01B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RotateAround.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RotateAround.cs" Line="15" Column="83" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SolarSystem" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RotateAround.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="80bb0555-8a10-4844-98a5-fc946f17a563" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
